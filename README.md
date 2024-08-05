@@ -93,28 +93,11 @@ Ensure MongoDB is running and accessible via the connection string specified in 
 For production, configure environment variables and set up a production database.
 Make sure to handle CORS issues if the frontend and backend are served from different domains.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+SS :
 
-Contributing
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+<img width="996" alt="Screenshot 2024-08-04 at 11 44 21 PM" src="https://github.com/user-attachments/assets/0f457e0e-ce81-4dd7-8be4-0e75d454dbcf">
+<img width="996" alt="Screenshot 2024-08-05 at 12 00 40 AM" src="https://github.com/user-attachments/assets/c09a5c4c-f785-47a4-a6fd-8893ad7d9a59">
 
-ruby
-Copy code
-
-### To Add This `README.md` to Your Repository:
-
-1. **Create the `README.md` File:**
-
-   Navigate to the root of your repository and create a `README.md` file:
-
-   ```bash
-   touch README.md
-Add Content to README.md:
-
-Open the README.md file and copy-paste the above content into it.
-
-Commit and Push Changes:
 
 bash
 Copy code
