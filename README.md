@@ -5,7 +5,7 @@ This repository contains both the frontend and backend projects for the Stock Pr
 ## Project Structure
 
 - **/stock-price-tracker**: Contains the backend API and services.
-- **/stock-price-tracker-frontend**: Contains the frontend React application.
+- **/stock-price-tracker-frontend**: https://github.com/mayank0307/stock-price-tracker-frontend/tree/main
 
 ## Prerequisites
 
